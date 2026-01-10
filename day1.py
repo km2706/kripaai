@@ -15,7 +15,7 @@ elif q == "Why is education important?":
     elif q == "Are students allowed to choose subjects of their interest?":
     print("Partially, but choices are often limited by the system")
     elif q == "How effective is classroom teaching today":
-    print("It is effective when combined with technology and interaction)
+    print("It is effective when combined with technology and interaction")
     elif q == "Does the education system encourage creativity?":
     print("Creativity is encouraged, but not enough in many schools")
     elif q == "How does exam pressure affect students?":
