@@ -31,4 +31,5 @@ cart[0] = "pc"
 print(cart)
 print(type(cart))
 
-marks =
+marks =(55,66,77,88,99)
+print(marks)
