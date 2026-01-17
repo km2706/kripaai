@@ -33,3 +33,8 @@ print(type(cart))
 
 marks =(55,66,77,88,99)
 print(marks)
+
+# marks[0] = 60
+
+# print(marks)
+print(type(marks))
