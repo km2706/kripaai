@@ -22,7 +22,7 @@ Release date:
     -{key:value}
 """
 nums=[1,2,3]
-cart=["phone","book",10,false,None,{1:"a"},nums]
+cart = ["phone", "book", 10, False, None, {1: "a"}, nums]
 
 print(cart)
 
